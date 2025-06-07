@@ -1,4 +1,4 @@
-﻿# Victor's Terraform Codex
+﻿# The Terraform Codex
 
 > **A practical, evolving guide capturing my journey with Terraform through real-world DevOps challenges.**
 
